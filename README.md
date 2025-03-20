@@ -1,4 +1,4 @@
-##Hospitality Data Analysis using Power BI
+#Hospitality Data Analysis using Power BI
 
 📌 Project Description
 
