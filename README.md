@@ -1,4 +1,4 @@
-# Hospitality Data Analysis using Power BI
+#  Hospitality Data Analysis using Power BI
 
 📌 Project Description
 
@@ -22,7 +22,7 @@ Excel/CSV – For data storage and preprocessing
 📂 Dataset Overview
 
 Source: Dataset obtained from YouTube Video. All rights belong to the original creator.
-
+Dashboard file
 Key Fields:
 
 Booking ID – Unique identifier for each booking
