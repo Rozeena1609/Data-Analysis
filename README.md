@@ -21,7 +21,7 @@ MySQL – For data extraction and transformation
 Excel/CSV – For data storage and preprocessing
 📂 Dataset Overview
 
-Source: 
+Source: Dataset obtained from YouTube Video. All rights belong to the original creator.
 
 Key Fields:
 
