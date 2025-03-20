@@ -1,4 +1,4 @@
-#Hospitality Data Analysis using Power BI
+##Hospitality Data Analysis using Power BI
 
 📌 Project Description
 
@@ -47,7 +47,7 @@ Cancellation Analysis – Understand why customers cancel bookings
 
 Customer Demographics – Segment guests based on booking behavior
 
-🔹 Screenshot of Dashboard:
+🔹 Screenshot of Dashboard: https://github.com/Rozeena1609/Data-Analysis/blob/main/Screenshot%202025-03-21%20021631.png
 
 🚀 How to Use This Project
 
